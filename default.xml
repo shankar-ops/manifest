@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote name="origin" fetch="https://github.com/shankar-ops" />
+
+  <project path="google_repo_first" 
+           name="Google_repo" 
+           remote="origin" 
+           revision="master"/>
+
+  <project path="google_repo_2nd"
+           name="Google_second"
+           remote="origin"
+           revision="master"/>
+</manifest>
